@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except .ipynb, .gitginore, .gitattributes and .md files
+!*.ipynb
+!*.gitignore
+!*.gitattributes
+!*.md
